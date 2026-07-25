@@ -1,2 +1,3 @@
 # Tokenizer Audit
 
+Analyzing fertility...
